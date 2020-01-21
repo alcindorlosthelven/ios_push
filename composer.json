@@ -1,0 +1,25 @@
+{
+  "name": "alcindorlos/los-framework",
+  "description": "framework php",
+  "minimum-stability": "stable",
+  "license": "public",
+  "authors": [
+    {
+      "name": "alcindor losthelven",
+      "email": "alcindorlos@gmail.com"
+    }
+  ],
+  "autoload":{
+    "psr-4":{
+      "":""
+    },
+    "psr-0":{
+      "":""
+    }
+  },
+  "require": {
+    "php": ">=5.6",
+    "ext-curl": "*",
+    "ixudra/curl": "6.*"
+  }
+}
