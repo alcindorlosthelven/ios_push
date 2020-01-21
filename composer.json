@@ -19,7 +19,6 @@
   },
   "require": {
     "php": ">=5.6",
-    "ext-curl": "*",
-    "ixudra/curl": "6.*"
+    "ext-curl": "*"
   }
 }
